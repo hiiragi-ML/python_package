@@ -6,5 +6,5 @@ setup(
     description="Pythonディレクトリ構成のテスト用",
     author="hiiragi-ML",
     author_email="hiiragisatoru1221@gmail.com",
-    url=
+    url="https://github.com/hiiragi-ML/python_package",
 )
